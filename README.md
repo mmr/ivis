@@ -1,4 +1,4 @@
-## Interesting VIdeos Suggester
+# Interesting VIdeos Suggester [![Build Status](https://api.travis-ci.org/mmr/ivis.svg?branch=master)](https://travis-ci.org/mmr/ivis/)
 
 - Like Ted Talks?
 - Way too many interesting videos?

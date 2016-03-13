@@ -32,7 +32,6 @@ class App extends Component {
           <View style={styles.mapContainer}>
             <Video />
           </View>
-          <PollButton />
         </View>
       );
   }
